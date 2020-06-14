@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "231382154641",
+    "firebase_url": "https://ebills-6fe42.firebaseio.com",
+    "project_id": "ebills-6fe42",
+    "storage_bucket": "ebills-6fe42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231382154641:android:c58cec5672c7f631d72e30",
+        "android_client_info": {
+          "package_name": "com.company.firstOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231382154641-cricmibf3o1bkm8vs3alaq79k6eod0js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7OCX8OuPNlWNxzA7PeQ3hKHm74FLXGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231382154641-cricmibf3o1bkm8vs3alaq79k6eod0js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231382154641:android:0a1cf268ef0184c5d72e30",
+        "android_client_info": {
+          "package_name": "com.example.ebills_trial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231382154641-cricmibf3o1bkm8vs3alaq79k6eod0js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7OCX8OuPNlWNxzA7PeQ3hKHm74FLXGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231382154641-cricmibf3o1bkm8vs3alaq79k6eod0js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
